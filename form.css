@@ -1,0 +1,16 @@
+body
+{
+    text-align: center;
+
+    background-color: rgb(218, 200, 238);
+    
+    
+}
+div{
+    margin: 150px;margin-left: 30%;
+    border: 5px solid rgb(198, 97, 211); width: 450px; height: 250px;
+    background-image:linear-gradient(white,rgb(243, 193, 243));
+    width:30%;  
+    
+
+}
